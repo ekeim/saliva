@@ -1,0 +1,19 @@
+This is a text file outlining the computational pipeline as it should be 
+for QIIME
+
+0.Validate mapping file
+1.Demutiplex and quality filter reads
+2.pick OTUs based on sequence similarity within reads
+3.Pick a representative sequence for each OTU
+4. Align taxonomy to OTU representative sequences
+5.Filter the alignment
+_____________________________________
+6. Build a phylogenetic tree
+7. Make the OTU table
+8. Summarize OTU table
+9.Summarize communities by taxonomic composition
+10. make taxonomy heatmap
+11. compute alpha diversity and generate alpha rarefaction plots
+
+
+
